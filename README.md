@@ -1,6 +1,6 @@
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&animation=twinkling&section=header&text=Vinícius%20Arruda&fontColor=#fff&fontAlignY=35"/>
-  ## Cursando Análise e Desenvolvimento de Sistemas (5/6) pelo Instituto Federal de Pernambuco (IFPE)
+  <h2>Cursando Análise e Desenvolvimento de Sistemas (5/6) pelo Instituto Federal de Pernambuco (IFPE)</h2>
   
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinícius-arruda-859044266/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viini.z/) 
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vinicius.arruda.404/)
