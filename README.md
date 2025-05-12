@@ -5,9 +5,10 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinícius-arruda-859044266/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viini.z/) 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vinicius.arruda.404/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vjarruda&show_icons=true&theme=radical)
-
-![Github status](https://github-readme-stats.vercel.app/api/top-langs/?username=vjarruda&theme=radical)
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=vjarruda&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjarruda&theme=radical" alt="Top langs" />
+</div>
 
 ## Tecnologias que uso/já usei 
 
