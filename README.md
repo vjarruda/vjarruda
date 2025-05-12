@@ -12,7 +12,7 @@
   
   
   <div style="display: inline_block"><br>
-  ### Tecnologias que uso/já usei 
+  <h4>Tecnologias que uso/já usei</h4>
   
   ### Front-end
   <div style="display: inline block">
